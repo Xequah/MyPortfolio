@@ -1,4 +1,16 @@
+html body {
+    background-color: DarkSlateGrey;
+}
+
+title {
+  color: navy;
+}
+
+
+
 ul {
   font-size: 15px;
   line-height: 25px;
 }
+img {
+  padding: 20px;
